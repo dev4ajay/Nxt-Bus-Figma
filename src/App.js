@@ -15,6 +15,8 @@ import Ticket from './components/Bus-Ticket/Ticket';
 import Ticket3 from './components/Bus-Ticket/Ticket3';
 import Ticket1 from './components/Bus-Ticket/Ticketes';
 import Ticketes from './components/Bus-Ticket/Ticketes';
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 // import './App.css';
 
